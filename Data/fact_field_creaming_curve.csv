@@ -1,0 +1,6 @@
+Field_ID,Field_Name,Discovery_Year,Region,Operator,Cumulative_Oil_Production_bbl,Cumulative_Gas_Production_scf,Cumulative_Water_Production_bbl,Peak_Production_BOPD,Peak_Production_Year,Average_Production_BOPD,Production_Life_Years,Rank_by_Discovery_Year
+F001,Umutu Field,1988,Niger Delta,Shell Nigeria,,,,,,,,
+F002,Koluama Field,1992,Niger Delta,ExxonMobil Nigeria,,,,,,,,
+F003,Tombo Field,1995,Niger Delta,Chevron Nigeria,,,,,,,,
+F004,Nembe Field,2003,Niger Delta,Total E&P Nigeria,,,,,,,,
+F005,Oguta Field,2008,Niger Delta,Shell Nigeria,,,,,,,,

@@ -1,0 +1,45 @@
+Well_ID,Field_ID,Reservoir_ID,Well_Name,Well_Type,Well_Bore_Type,Completion_Date,Lift_Method,Spud_Year,Depth_Meters,API_Gravity,Status,Status_Change_Date,Operator
+UMU-001A,F001,RSV002,Umutu-001A,Oil Producer,Vertical,2006-02-03,Natural Flow,2005,4057,33.6,Active,2012-04-25,Shell Nigeria
+UMU-002B,F001,RSV002,Umutu-002B,Oil Producer,Vertical,2012-05-27,ESP,2010,3636,31.8,Active,2024-07-03,Shell Nigeria
+UMU-003A,F001,RSV002,Umutu-003A,Oil Producer,Horizontal,2000-07-09,Natural Flow,2000,3842,31.2,Active,2011-04-28,Shell Nigeria
+UMU-004B,F001,RSV001,Umutu-004B,Oil Producer,Horizontal,2000-03-18,ESP,1998,3158,32.1,Abandoned,2020-02-20,Shell Nigeria
+UMU-005A,F001,RSV001,Umutu-005A,Oil Producer,Horizontal,2017-06-13,Natural Flow,2017,3177,31.8,Active,2015-01-08,Shell Nigeria
+UMU-006B,F001,RSV002,Umutu-006B,Gas Producer,Deviated,2008-12-18,ESP,2008,2835,33.0,Active,2012-05-05,Shell Nigeria
+UMU-007A,F001,RSV001,Umutu-007A,Oil Producer,Vertical,2015-03-26,ESP,2013,3141,31.7,Active,2010-02-05,Shell Nigeria
+UMU-008B,F001,RSV002,Umutu-008B,Oil Producer,Deviated,2014-02-22,Gas Lift,2012,3181,32.8,Abandoned,2023-01-22,Shell Nigeria
+UMU-009A,F001,RSV002,Umutu-009A,Oil Producer,Vertical,2011-03-17,Gas Lift,2009,2628,31.9,Abandoned,2024-12-09,Shell Nigeria
+UMU-010B,F001,RSV002,Umutu-010B,Oil Producer,Deviated,2022-06-16,Natural Flow,2020,3647,31.6,Active,2022-09-01,Shell Nigeria
+KOL-001A,F002,RSV003,Koluama-001A,Gas Producer,Horizontal,2001-03-05,ESP,1999,2518,31.7,Active,2017-02-25,ExxonMobil Nigeria
+KOL-002B,F002,RSV004,Koluama-002B,Injector,Deviated,2000-12-10,Natural Flow,2000,3480,33.6,Abandoned,2022-12-23,ExxonMobil Nigeria
+KOL-003A,F002,RSV003,Koluama-003A,Oil Producer,Vertical,2006-10-08,Natural Flow,2006,4242,32.6,Active,2010-10-18,ExxonMobil Nigeria
+KOL-004B,F002,RSV004,Koluama-004B,Oil Producer,Deviated,2001-03-24,Gas Lift,1999,2538,33.7,Active,2020-08-07,ExxonMobil Nigeria
+KOL-005A,F002,RSV003,Koluama-005A,Oil Producer,Deviated,2000-08-28,ESP,1999,4006,32.4,Active,2016-06-14,ExxonMobil Nigeria
+KOL-006B,F002,RSV003,Koluama-006B,Oil Producer,Vertical,1993-05-15,Natural Flow,1993,3224,33.2,Active,2017-03-14,ExxonMobil Nigeria
+KOL-007A,F002,RSV003,Koluama-007A,Oil Producer,Horizontal,2006-03-14,Natural Flow,2006,4054,33.6,Shut-in,2018-01-03,ExxonMobil Nigeria
+KOL-008B,F002,RSV004,Koluama-008B,Oil Producer,Vertical,2020-12-24,Gas Lift,2019,3221,33.7,Abandoned,2014-08-10,ExxonMobil Nigeria
+KOL-009A,F002,RSV003,Koluama-009A,Oil Producer,Vertical,1996-10-16,ESP,1996,2788,31.9,Active,2021-06-02,ExxonMobil Nigeria
+TOM-001A,F003,RSV005,Tombo-001A,Oil Producer,Vertical,2013-04-19,ESP,2011,2564,33.6,Shut-in,2013-07-04,Chevron Nigeria
+TOM-002B,F003,RSV006,Tombo-002B,Oil Producer,Horizontal,2008-05-13,Natural Flow,2008,3746,32.8,Active,2020-12-11,Chevron Nigeria
+TOM-003A,F003,RSV006,Tombo-003A,Oil Producer,Vertical,2011-04-17,Natural Flow,2009,3047,33.8,Active,2019-02-03,Chevron Nigeria
+TOM-004B,F003,RSV006,Tombo-004B,Oil Producer,Deviated,1999-09-01,ESP,1997,4200,31.7,Shut-in,2021-05-20,Chevron Nigeria
+TOM-005A,F003,RSV006,Tombo-005A,Oil Producer,Vertical,2017-05-20,Natural Flow,2016,2612,33.8,Shut-in,2021-09-05,Chevron Nigeria
+TOM-006B,F003,RSV005,Tombo-006B,Oil Producer,Deviated,2003-07-27,Natural Flow,2001,3807,32.9,Active,2024-01-03,Chevron Nigeria
+TOM-007A,F003,RSV005,Tombo-007A,Oil Producer,Deviated,2005-02-03,Gas Lift,2005,3979,31.4,Active,2021-07-18,Chevron Nigeria
+TOM-008B,F003,RSV005,Tombo-008B,Oil Producer,Horizontal,2012-06-07,ESP,2012,2473,33.5,Active,2010-05-12,Chevron Nigeria
+NEM-001A,F004,RSV008,Nembe-001A,Oil Producer,Horizontal,2020-07-01,Natural Flow,2020,4210,33.6,Abandoned,2013-03-26,Total E&P Nigeria
+NEM-002B,F004,RSV007,Nembe-002B,Oil Producer,Horizontal,2017-01-28,Natural Flow,2016,4042,33.0,Active,2022-12-04,Total E&P Nigeria
+NEM-003A,F004,RSV008,Nembe-003A,Oil Producer,Vertical,2017-05-12,ESP,2017,3116,31.9,Shut-in,2016-06-09,Total E&P Nigeria
+NEM-004B,F004,RSV008,Nembe-004B,Gas Producer,Vertical,2020-10-14,Natural Flow,2020,3078,33.8,Active,2019-05-02,Total E&P Nigeria
+NEM-005A,F004,RSV007,Nembe-005A,Oil Producer,Vertical,2017-01-17,Gas Lift,2016,3641,34.0,Active,2014-01-23,Total E&P Nigeria
+NEM-006B,F004,RSV008,Nembe-006B,Gas Producer,Horizontal,2015-09-10,ESP,2014,3283,31.2,Active,2020-02-24,Total E&P Nigeria
+NEM-007A,F004,RSV007,Nembe-007A,Oil Producer,Vertical,2015-10-19,Natural Flow,2015,3827,31.9,Shut-in,2016-11-24,Total E&P Nigeria
+NEM-008B,F004,RSV007,Nembe-008B,Oil Producer,Horizontal,2012-09-16,ESP,2012,2987,31.6,Active,2017-08-22,Total E&P Nigeria
+NEM-009A,F004,RSV007,Nembe-009A,Oil Producer,Horizontal,2006-04-26,Natural Flow,2005,2981,32.5,Active,2022-04-22,Total E&P Nigeria
+OGU-001A,F005,RSV009,Oguta-001A,Oil Producer,Vertical,2013-07-16,Natural Flow,2011,3373,32.8,Shut-in,2019-04-23,Shell Nigeria
+OGU-002B,F005,RSV009,Oguta-002B,Oil Producer,Vertical,2019-01-18,Natural Flow,2018,3808,31.0,Active,2022-12-17,Shell Nigeria
+OGU-003A,F005,RSV010,Oguta-003A,Oil Producer,Horizontal,2017-09-14,Gas Lift,2015,2673,33.4,Active,2015-08-20,Shell Nigeria
+OGU-004B,F005,RSV010,Oguta-004B,Oil Producer,Deviated,2012-08-21,Natural Flow,2010,3923,33.6,Active,2020-05-25,Shell Nigeria
+OGU-005A,F005,RSV009,Oguta-005A,Oil Producer,Deviated,2009-07-23,Natural Flow,2009,3861,31.9,Shut-in,2011-03-05,Shell Nigeria
+OGU-006B,F005,RSV010,Oguta-006B,Oil Producer,Horizontal,2011-12-01,Gas Lift,2009,3249,32.2,Active,2023-07-13,Shell Nigeria
+OGU-007A,F005,RSV009,Oguta-007A,Oil Producer,Deviated,2017-12-18,ESP,2015,2412,33.8,Shut-in,2023-07-18,Shell Nigeria
+OGU-008B,F005,RSV009,Oguta-008B,Oil Producer,Deviated,2015-08-05,Gas Lift,2015,2849,31.8,Active,2020-07-24,Shell Nigeria
