@@ -1,6 +1,0 @@
-Field_ID,Field_Name,Region,Discovery_Year,Development_Stage,Maturity_Level,Operator,Discovery_Oil_MMBBL,Discovery_Gas_BCF,Discovery_Total_MMBOE,Discovery_Rank,Cumulative_Discovery
-F001,Umutu,Niger Delta,1988,Production,Mature,Shell Nigeria,220,30,225,1,225
-F002,Koluama,Niger Delta,1992,Production,Mature,ExxonMobil Nigeria,45,12,47,2,272
-F003,Tombo,Niger Delta,1995,Production,Developed,Chevron Nigeria,80,20,83,3,355
-F004,Nembe,Niger Delta,2003,Production,Developing,Total E&P Nigeria,15,8,16,4,371
-F005,Oguta,Niger Delta,2008,Production,Development,Shell Nigeria,12,5,13,5,384
