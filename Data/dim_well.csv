@@ -1,5 +1,5 @@
 Well_ID,Field_ID,Reservoir_ID,Well_Name,Well_Type,Well_Bore_Type,Completion_Date,Lift_Method,Spud_Year,Depth_Meters,API_Gravity,Status,Status_Change_Date,Operator,Is_Exploration,Discovery_Oil_MMBBL,Discovery_Gas_BCF,Discovery_Total_MMBOE,Discovery_Year,Discovery_Rank,Cumulative_Discovery
-UMU-001A,F001,RSV002,Umutu-001A,Oil Producer,Vertical,03-02-2006,Natural Flow,1998,4057,33.6,Active,25-04-2012,Shell Nigeria,Yes,80,8,81,1998,1,81
+UMU-001A,F001,RSV002,Umutu-001A,Oil Producer,Vertical,03-02-2007,Natural Flow,1998,4057,33.6,Active,25-04-2012,Shell Nigeria,Yes,80,8,81,1998,1,81
 UMU-002B,F001,RSV002,Umutu-002B,Oil Producer,Vertical,27-05-2012,ESP,2000,3636,31.8,Active,03-07-2024,Shell Nigeria,Yes,100,5,101,2000,2,182
 UMU-003A,F001,RSV002,Umutu-003A,Oil Producer,Horizontal,09-07-2000,Natural Flow,2005,3842,31.2,Active,28-04-2011,Shell Nigeria,Yes,120,10,122,2005,3,304
 UMU-004B,F001,RSV001,Umutu-004B,Oil Producer,Horizontal,18-03-2000,ESP,2008,3158,32.1,Abandoned,20-02-2020,Shell Nigeria,Yes,50,12,52,2008,4,356
